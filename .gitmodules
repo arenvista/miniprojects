@@ -1,0 +1,12 @@
+[submodule "hecto"]
+	path = hecto
+	url = ./hecto
+[submodule "rust-pixelate"]
+	path = rust-pixelate
+	url = ./rust-pixelate
+[submodule "rust-ascii"]
+	path = rust-ascii
+	url = ./rust-ascii
+[submodule "neovim-telescope-docker"]
+	path = neovim-telescope-docker
+	url = ./neovim-telescope-docker
